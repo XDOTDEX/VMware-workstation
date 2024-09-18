@@ -1,7 +1,5 @@
 # VMware DEメTER Releases
-https://github.com/XDOTDEX/VMware-workstation/releases/tag/v17.6.0
-
-
+https://github.com/XDOTDEX/VMware-workstation/releases/tag/v17.6.2
 
 <!--
 <p align="center">
