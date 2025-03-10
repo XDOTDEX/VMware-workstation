@@ -1,3 +1,7 @@
+
+scrcpy (v3.1)
+https://github.com/XDOTDEX/VMware-workstation/releases
+
 # VMware DEメTER Releases
 https://github.com/XDOTDEX/VMware-workstation/releases/tag/v17.6.2
 
